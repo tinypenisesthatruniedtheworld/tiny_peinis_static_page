@@ -1,5 +1,5 @@
 .header-dark {
-  /*background: url(../../assets/img/mountain_bg.jpg) #444;*/
+  /*background: url(mountain_bg.jpg) #444;*/
   /*background-size: cover;*/
   /*padding-bottom: 80px;*/
 }
@@ -12,7 +12,7 @@
 
 .header-dark .navbar {
   background: transparent;
-  color: #fff;
+  color: #ea84da;
   border-radius: 0;
   box-shadow: none;
   border: none;
@@ -161,5 +161,8 @@
 
 .header-dark .hero .ratio iframe {
   background-color: #666;
+}
+
+a {
 }
 
