@@ -11,3 +11,8 @@ body {
   -webkit-tap-highlight-color: transparent;
 }
 
+.text-center {
+  text-align: center!important;
+  font-weight: 200;
+}
+

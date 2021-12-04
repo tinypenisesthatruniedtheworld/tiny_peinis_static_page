@@ -4,3 +4,14 @@ html {
 .navigation-clean-search {
 }
 
+label {
+  color: rgb(0,0,0);
+  font-size: 80;
+  letter-spacing: 0px;
+  font-style: italic;
+}
+
+#b_lbl {
+  font-size: 35;
+}
+
