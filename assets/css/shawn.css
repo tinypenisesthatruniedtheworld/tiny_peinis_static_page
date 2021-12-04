@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: var(--bs-body-font-family);
+  font-family: 'Open Sans';
   font-size: var(--bs-body-font-size);
   line-height: var(--bs-body-line-height);
   font-weight: 700;

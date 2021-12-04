@@ -4,6 +4,14 @@
   padding: 50px 0;
 }
 
+.highlight-blue {
+  color: #fff;
+  background-color: inherit;
+  padding-top: 50px;
+  padding-bottom: 5px;
+  /*padding: 2px;*/
+}
+
 .highlight-blue p {
   color: #c4d5ef;
   line-height: 1.5;
@@ -16,12 +24,6 @@
   padding-top: 0;
   margin-top: 0;
   color: inherit;
-}
-
-.highlight-blue .intro {
-  font-size: 16px;
-  max-width: 850px;
-  margin: 0 auto 25px;
 }
 
 .highlight-blue .buttons {
