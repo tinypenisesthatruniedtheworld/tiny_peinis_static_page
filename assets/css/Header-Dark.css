@@ -6,7 +6,7 @@
 
 @media (min-width:768px) {
   .header-dark {
-    padding-bottom: 120px;
+    padding-bottom: 0px;
   }
 }
 
@@ -164,5 +164,11 @@
 }
 
 a {
+}
+
+li {
+}
+
+.navigation-clean-search {
 }
 
